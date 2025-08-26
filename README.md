@@ -2,7 +2,7 @@
 
 ## App Development Using Flutter | 01-06-2025 to 30-07-2025
 
-- **Internship Duration:** 2 Months  
+- **Internship Duration:** 1 Months  
 - **Start Date:** 1st June 2025  
 - **End Date:** 30th June 2025  
 - **Domain:** Mobile App Development (Flutter)  
