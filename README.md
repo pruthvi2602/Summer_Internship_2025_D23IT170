@@ -1,8 +1,8 @@
 # 📄 Internship Report
 
-## App Development Using Flutter | 01-06-2025 to 30-06-2025
+## App Development Using Flutter | 01-06-2025 to 30-07-2025
 
-- **Internship Duration:** 1 Month  
+- **Internship Duration:** 2 Months  
 - **Start Date:** 1st June 2025  
 - **End Date:** 30th June 2025  
 - **Domain:** Mobile App Development (Flutter)  
@@ -49,17 +49,35 @@
 | 18-06-2025 | Uploaded and retrieved images using Firebase Storage. Linked images to recipe data. |
 | 19-06-2025 | Applied Firestore security rules for authentication and authorization. |
 
-### Week 4: TastyBite App Development & Finalization
+### Week 4: TastyBite App – Home & Favorites Screens
 
 | Date | Daily Log |
 |------|-----------|
 | 22-06-2025 | Designed Home Screen with recipe categories, featured recipes, and search functionality. |
 | 23-06-2025 | Developed Favorites Screen to add/remove recipes and store user preferences in Firestore. |
-| 24-06-2025 | Implemented Meal Planner page for adding recipes to different days. |
-| 25-06-2025 | Created Recipe Details page displaying ingredients, preparation steps, and servings adjustment. |
-| 26-06-2025 | Developed Settings page with theme customization and profile settings. |
-| 29-06-2025 | Conducted end-to-end testing, debugged issues, and optimized Firestore queries. |
-| 30-06-2025 | Prepared documentation, screenshots, and submitted final report. Presented the TastyBite app successfully. |
+| 24-06-2025 | Implemented dynamic UI updates using state management for Home and Favorites pages. |
+| 25-06-2025 | Tested screens on multiple devices and optimized UI responsiveness. |
+| 26-06-2025 | Debugged issues related to navigation, layout, and Firestore integration. |
+
+### Week 5: Meal Planner & Recipe Details
+
+| Date | Daily Log |
+|------|-----------|
+| 29-06-2025 | Designed Meal Planner page for adding recipes to different days. |
+| 30-06-2025 | Linked Meal Planner with Firestore for real-time updates across devices. |
+| 01-07-2025 | Created Recipe Details page displaying ingredients, preparation steps, and servings adjustment. |
+| 02-07-2025 | Implemented dynamic servings adjustment in recipes. |
+| 03-07-2025 | Conducted UI/UX testing for Meal Planner and Recipe Details pages. |
+
+### Week 6: Settings & Final Integrations
+
+| Date | Daily Log |
+|------|-----------|
+| 06-07-2025 | Developed Settings page with dark/light theme option and profile settings. |
+| 07-07-2025 | Applied input validations for forms and ensured proper error handling. |
+| 08-07-2025 | Conducted end-to-end testing of TastyBite app, debugging backend and UI issues. |
+| 09-07-2025 | Optimized Firestore queries and improved app performance. |
+| 10-07-2025 | Finalized all screens, implemented security rules, and prepared screenshots for documentation. |
 
 ## ✅ Key Learnings
 - Hands-on experience in Flutter development, widgets, and state management.  
@@ -67,3 +85,5 @@
 - Designed and implemented a real-world Food Recipe app with Home, Favorites, Meal Planner, and Settings pages.  
 - Learned Agile practices, project planning, and documentation.  
 - Improved debugging, UI/UX design skills, and security implementation for mobile apps.  
+
+> Feel free to connect with me for collaboration or project discussions!
