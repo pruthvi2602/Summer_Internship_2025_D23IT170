@@ -67,5 +67,3 @@
 - Designed and implemented a real-world Food Recipe app with Home, Favorites, Meal Planner, and Settings pages.  
 - Learned Agile practices, project planning, and documentation.  
 - Improved debugging, UI/UX design skills, and security implementation for mobile apps.  
-
-> Feel free to connect with me for collaboration or project discussions!
