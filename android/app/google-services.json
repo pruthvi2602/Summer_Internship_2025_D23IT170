@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890925805918",
+    "project_id": "tastybite-5b501",
+    "storage_bucket": "tastybite-5b501.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890925805918:android:26252eb3b93df040691fcf",
+        "android_client_info": {
+          "package_name": "com.example.tastybite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88jYv1W_1NwSIS8yYtiUClGWzFpr4UBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

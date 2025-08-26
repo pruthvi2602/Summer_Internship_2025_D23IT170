@@ -1,4 +1,4 @@
-# app
+# tastybite
 
 A new Flutter project.
 
